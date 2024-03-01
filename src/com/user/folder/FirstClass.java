@@ -5,5 +5,6 @@ public class FirstClass {
 		System.out.println("this is testing");
 		System.out.println("new commit");
 		System.out.println("third time to pre-master not master");
+		System.out.println("writing to master");
 	}
 }
